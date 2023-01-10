@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reviref
-- 📫 Better send me email or slack
-- 👀 For now (Nov 22) I work from office (circa 11-17)
-- 🌱 I’m currently learning a lot
+- Hi, I’m @reviref
+- Better send me email or slack
+- For now (Nov 22) I work from office (circa 11-17)
+- I’m currently learning a lot
 
 
 <!---
