@@ -1,6 +1,5 @@
 - Hi, I’m @reviref
 - Better send me email or slack
-- I'm in office on Tuesdays, Wednesdays and Fridays
 
 
 <!---
